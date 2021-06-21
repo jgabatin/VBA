@@ -1,3 +1,3 @@
 # VBA
 
-Microsoft Excel macros for common tasks. Installation and compatibility is outlined within the folders' README.
+Microsoft Excel macros for common tasks. Instructions for installation are outlined within a folder's README.
